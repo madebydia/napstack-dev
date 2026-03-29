@@ -28,8 +28,12 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <meta name="color-scheme" content="light dark" />
-        {/* Add the Plausible script here */}
-        <Script defer data-domain="napstack.dev" src="https://plausible.io/js/script.outbound-links.js" />
+        {/* Privacy-friendly analytics by Plausible */}
+        <Script async src="https://plausible.io/js/pa-PTZs3jjJZgCcehHjlN-uy.js" />
+        <Script id="plausible-init" strategy="afterInteractive">{`
+          window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+          plausible.init()
+        `}</Script>
       </head>
       <body className={inter.className} suppressHydrationWarning>
         {children}
