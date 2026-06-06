@@ -80,7 +80,7 @@ export function RoadmapModal({ children }: RoadmapModalProps) {
 
   const createFeatureRequestTweet = () => {
     const tweetText = encodeURIComponent(
-      "Hey @meimakes! I'd love to see this feature in NapStack.dev: [describe your idea]\n\n#NapStackDev #ParentDeveloper",
+      "Hey @madebydia! I'd love to see this feature in NapStack.dev: [describe your idea]\n\n#NapStackDev #ParentDeveloper",
     )
     window.open(`https://twitter.com/intent/tweet?text=${tweetText}`, "_blank")
   }
@@ -133,7 +133,7 @@ export function RoadmapModal({ children }: RoadmapModalProps) {
                 </Button>
                 <Button asChild variant="outline" size="sm">
                   <a
-                    href="https://github.com/meimakes/napstack-dev"
+                    href="https://github.com/madebydia/napstack-dev"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2"

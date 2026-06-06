@@ -6,7 +6,7 @@ A productivity dashboard designed for parents who code during naptime and other 
 
 Under active development and welcoming contributions!
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mei-made-it/v0-napstack-dev)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/madebydia/v0-napstack-dev)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/EHbkPNpUprM)
 
 ## 🌟 Overview
@@ -90,7 +90,7 @@ Future features planned:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/meimakes/napstack-dev.git
+git clone https://github.com/madebydia/napstack-dev.git
 cd napstack-dev
 ```
 
@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👏 Acknowledgments
 
-- Built by [@meimakes](https://x.com/meimakes), SAHM and SWE
+- Built by [@madebydia](https://x.com/madebydia), SAHM and SWE
 - Inspired by the incredible parent-developer community
 - Special thanks to all parents who manage to ship code between diaper changes
 

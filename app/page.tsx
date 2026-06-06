@@ -134,7 +134,7 @@ export default function Dashboard() {
 
       {/* Footer */}
       <footer className="relative z-10 text-center py-8 text-sm text-[#87A96B]/70 dark:text-gray-400 transition-colors duration-300 space-y-2 bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm border-t border-[#87A96B]/20 dark:border-slate-700">
-        <div>Made for parents who code during naptime • by @meimakes</div>
+        <div>Made for parents who code during naptime • by @madebydia</div>
         <div className="flex items-center justify-center gap-3">
           <span className="px-2 py-1 bg-[#87A96B]/10 dark:bg-slate-700 rounded text-xs font-mono">
             v0.1.0-prerelease
